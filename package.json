@@ -5,7 +5,13 @@
   "version": "0.1.0",
   "scripts": {
     "compile": "hardhat compile",
+    "prepare": "husky install",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "lint-staged": {
+    "*.{js,ts}": [
+      "eslint --fix"
+    ]
   },
   "repository": {
     "type": "git",
