@@ -4,6 +4,7 @@
   "private": true,
   "version": "0.1.0",
   "scripts": {
+    "compile": "hardhat compile",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
