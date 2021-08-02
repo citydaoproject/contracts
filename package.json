@@ -1,3 +1,26 @@
 {
-  "name": "hardhat-project"
+  "name": "@citydaoproject/contracts",
+  "description": "CityDAO's Solidity smart contracts",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/citydaoproject/contracts.git"
+  },
+  "keywords": [
+    "cityDAO",
+    "ethereum",
+    "smart contracts",
+    "solidity",
+    "web3"
+  ],
+  "author": "CityDAO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/citydaoproject/contracts/issues"
+  },
+  "homepage": "https://github.com/citydaoproject/contracts#readme"
 }
